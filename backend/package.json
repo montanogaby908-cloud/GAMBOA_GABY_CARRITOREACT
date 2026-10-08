@@ -1,0 +1,8 @@
+{
+  "name": "carrito-compras-backend",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Servidor estático sin base de datos ni API: sirve frontend/dist.",
+  "scripts": { "start": "node server.js" }
+}
